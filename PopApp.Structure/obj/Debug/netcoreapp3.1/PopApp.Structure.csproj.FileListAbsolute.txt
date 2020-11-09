@@ -1,0 +1,15 @@
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Core.dll
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.csprojAssemblyReference.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.AssemblyInfoInputs.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.AssemblyInfo.cs
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.deps.json
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.runtimeconfig.json
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.runtimeconfig.dev.json
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.dll
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.pdb
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Core.pdb
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.csproj.CopyComplete
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.dll
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.pdb
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.genruntimeconfig.cache

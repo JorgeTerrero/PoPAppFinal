@@ -1,0 +1,9 @@
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.deps.json
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.dll
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.pdb
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.csprojAssemblyReference.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.AssemblyInfoInputs.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.AssemblyInfo.cs
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.dll
+C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.pdb
