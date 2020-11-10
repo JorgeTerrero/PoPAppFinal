@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Structure\\PopApp.Structure.csproj": {}
+    "D:\\Projects\\PoPAppFinal\\PopApp.Structure\\PopApp.Structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\PopApp.Core.csproj": {
+    "D:\\Projects\\PoPAppFinal\\PopApp.Core\\PopApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\PopApp.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\PoPAppFinal\\PopApp.Core\\PopApp.Core.csproj",
         "projectName": "PopApp.Core",
-        "projectPath": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\PopApp.Core.csproj",
-        "packagesPath": "C:\\Users\\Beseker00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\obj\\",
+        "projectPath": "D:\\Projects\\PoPAppFinal\\PopApp.Core\\PopApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Aderl\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\PoPAppFinal\\PopApp.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Beseker00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aderl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +55,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Structure\\PopApp.Structure.csproj": {
+    "D:\\Projects\\PoPAppFinal\\PopApp.Structure\\PopApp.Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Structure\\PopApp.Structure.csproj",
+        "projectUniqueName": "D:\\Projects\\PoPAppFinal\\PopApp.Structure\\PopApp.Structure.csproj",
         "projectName": "PopApp.Structure",
-        "projectPath": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Structure\\PopApp.Structure.csproj",
-        "packagesPath": "C:\\Users\\Beseker00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Structure\\obj\\",
+        "projectPath": "D:\\Projects\\PoPAppFinal\\PopApp.Structure\\PopApp.Structure.csproj",
+        "packagesPath": "C:\\Users\\Aderl\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\PoPAppFinal\\PopApp.Structure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Beseker00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aderl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\PopApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Beseker00\\source\\repos\\PopAppMaster.Api\\PopApp.Core\\PopApp.Core.csproj"
+              "D:\\Projects\\PoPAppFinal\\PopApp.Core\\PopApp.Core.csproj": {
+                "projectPath": "D:\\Projects\\PoPAppFinal\\PopApp.Core\\PopApp.Core.csproj"
               }
             }
           }
@@ -130,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,3 +13,16 @@ C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netc
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.dll
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.pdb
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.genruntimeconfig.cache
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.deps.json
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.runtimeconfig.json
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.runtimeconfig.dev.json
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.dll
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Structure.pdb
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Core.dll
+D:\Projects\PoPAppFinal\PopApp.Structure\bin\Debug\netcoreapp3.1\PopApp.Core.pdb
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.csprojAssemblyReference.cache
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.AssemblyInfoInputs.cache
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.AssemblyInfo.cs
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.csproj.CopyComplete
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.dll
+D:\Projects\PoPAppFinal\PopApp.Structure\obj\Debug\netcoreapp3.1\PopApp.Structure.pdb

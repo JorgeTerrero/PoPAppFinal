@@ -7,3 +7,11 @@ C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreap
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.csproj.CoreCompileInputs.cache
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.dll
 C:\Users\Beseker00\source\repos\PopAppMaster.Api\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.pdb
+D:\Projects\PoPAppFinal\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.deps.json
+D:\Projects\PoPAppFinal\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.dll
+D:\Projects\PoPAppFinal\PopApp.Core\bin\Debug\netcoreapp3.1\PopApp.Core.pdb
+D:\Projects\PoPAppFinal\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.csprojAssemblyReference.cache
+D:\Projects\PoPAppFinal\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.AssemblyInfoInputs.cache
+D:\Projects\PoPAppFinal\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.AssemblyInfo.cs
+D:\Projects\PoPAppFinal\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.dll
+D:\Projects\PoPAppFinal\PopApp.Core\obj\Debug\netcoreapp3.1\PopApp.Core.pdb
